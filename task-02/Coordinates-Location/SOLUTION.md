@@ -34,7 +34,17 @@
 /mnt/c/Coordinate-Location$ sudo mv EastCoordinate.txt East.txt
 /mnt/c/Coordinate-Location$ cat North.txt East.txt > Location-Coordinate.txt
 /mnt/c/Coordinate-Location$ touch solution.md
-/mnt/c/Coordinate-Location$
+/mnt/c/Coordinate-Location$ cd ..
+/mnt/c$ sudo mv Coordinate-Location /mnt/c/amfoss-tasks/task-01
+/mnt/c$ cd amfoss-tasks
+/mnt/c$ git init
+/mnt/c$ git add .
+/mnt/c$ git status
+/mnt/c$ git commit -m "Commited"
+/mnt/c$ git origin "https://github.com/Akshaj000/amfoss-tasks"
+/mnt/c$ git branch master
+/mnt/c$ git checkout master
+/mnt/c$ git push origin master
 
 
 
