@@ -33,6 +33,8 @@
 /mnt/c/Coordinate-Location/East$ cd ..
 /mnt/c/Coordinate-Location$ sudo mv EastCoordinate.txt East.txt
 /mnt/c/Coordinate-Location$ cat North.txt East.txt > Location-Coordinate.txt
+/mnt/c/Coordinate-Location$ touch solution.md
+/mnt/c/Coordinate-Location$
 
 
 
