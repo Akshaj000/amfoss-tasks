@@ -1,4 +1,4 @@
-Installing ubuntu
+## Installing ubuntu
 
 Installing ubuntu was pretty , ive dual booted ubuntu alonside windows after partitioning
 my ssd and creating a free space.
