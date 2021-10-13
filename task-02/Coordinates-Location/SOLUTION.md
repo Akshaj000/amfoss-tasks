@@ -1,3 +1,6 @@
+## Commands used in ubuntu terminal.
+also vi file.txt can be used to edit files.
+
 /c$ mkdir Coordinate-Location
 
 /c$ cd Coordinate-Location
