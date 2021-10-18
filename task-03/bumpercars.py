@@ -17,11 +17,8 @@ while(i<=m):
     if (bridge[i]==1 ):
         bridge[i],bridge[i+1]=bridge[i+1],bridge[i]
         count+=1
-        i+=1
     elif(bridge[(m+1)-i]==-1):
         bridge[(m+1)-i],bridge[((m+1)-i)-1]=bridge[((m+1)-i)-1],bridge[(m+1)-i]
         count+=1
-        i+=1
-    else:
-        i+=1
+    i+=1
 print(count)
