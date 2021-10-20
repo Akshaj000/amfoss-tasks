@@ -5,5 +5,5 @@
 [Task-01](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-01)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-02)|Using git and other terminal command |Completed
 [Task-03](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-03)|Programming|Done Eight Questions
-[Task-04](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-04)|Aerglo marks|Completed
+[Task-04](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-04)|Aerglo mars|Completed
 [Task-06](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-06)|Flutter|Completed
