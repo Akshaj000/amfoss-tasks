@@ -1,0 +1,1 @@
+I tried to scrap the data from forbes and i could get the data on a csvfile as well as i couldnt print it. I tried the same on bloomberg page which is a similar website and it worked fine. Ive attached the program script and the csv file in test directory. Also ive attached the script to scrap from forbes here. I didnt include any csv file since its empty. 
