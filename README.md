@@ -9,4 +9,4 @@
 [Task-06](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-06)|Flutter|Completed
 [Task-07](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-07)|Webscrapping using goland|Failed
 [Task-08](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-08)|Introduction to html,js|Completed
-
+[Task-12](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-12)|Blockchain|Completed
