@@ -16,5 +16,5 @@
 [Task-12](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-12)|Blockchain|**Completed**
 [Task-13](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-13)|Circuit|unattempted
 [Task-14](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-14)|Bandit|**Completed**
-[Task-15](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-15)|Project Euler|unattempted
+[Task-15](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-15)|Project Euler|**Completed**
 
