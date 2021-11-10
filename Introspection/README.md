@@ -14,3 +14,4 @@ I want to learn and get comfortable in dsa in my first semster. I know python -d
 I would love to help others who is new to the club and leave a footprint even after i gratuate from Amritha.
 
 ## Do you have any feedback for the selection process?
+The Selection process was good, not very hard, helped me go through the basics of programming and understand diffrent elements.
