@@ -7,7 +7,7 @@
 [Task-02](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-02)|Using git and other terminal command |**Completed**
 [Task-03](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-03)|Programming|**Done Eight Questions**
 [Task-04](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-04)|Aerglo mars|**Completed**
-[Task-05](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-05)|Letmesee.c|Incomplete
+[Task-05](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-05)|Letmesee.c|**Completed**
 [Task-06](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-06)|Flutter|**Completed**
 [Task-07](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-07)|Webscrapping using goland|**Attempted**
 [Task-08](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-08)|Introduction to html,js|**Completed**
