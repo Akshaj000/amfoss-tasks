@@ -117,7 +117,7 @@ int main(void)
                 for(int counter = 0; counter < length; counter++)
                 {
                     matchFound = 0;
-                    if(alphabetInput == inputWord[counter]);
+                    if(alphabetInput == inputWord[counter])
                     {
                         position = counter ;
                         matchFound = 1;
