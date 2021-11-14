@@ -1,5 +1,5 @@
 # amfoss-tasks-
-Hi my name is Akshaj , Im from Palakkad, Kerala.
+Hi my name is Akshaj . Im from Palakkad, Kerala. Im using my github.io page for task submission.
 [Visit this website for more information on the tasks i have attempted.](https://Akshaj000.github.io)
 **Tasks List**|**Description**|**Status**|
 --------------|---------------|---------------
@@ -10,7 +10,7 @@ Hi my name is Akshaj , Im from Palakkad, Kerala.
 [Task-04](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-04)|Aerglo mars|**Completed**
 [Task-05](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-05)|Letmesee.c|**Completed**
 [Task-06](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-06)|Flutter|**Completed**
-[Task-07](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-07)|Webscrapping using goland|**Attempted**
+[Task-07](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-07)|Webscrapping using goland|**Completed**
 [Task-08](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-08)|Introduction to html,js|**Completed**
 [Task-09](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-09)|Github.io|**Completed**
 [Task-10](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-10)|cs50|unattempted

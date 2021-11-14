@@ -106,7 +106,7 @@ int main(void)
 
                 if(matchFound == 0)
                 {
-                    printf("%d",wrongTry);
+             
                     printf("\n\t :( You have %d tries left ",--wrongTry);
                     getchar();
                     showInput(wrongTry%5);
@@ -207,6 +207,7 @@ void showInput(int choice){
     //Every story has a beginning and an ending, or does it?
     switch(choice){
         case 0:
+            system("clear");
             printf("\n\t||===== ");
 	        printf("\n\t||    | ");
 	        printf("\n\t||   %cO/",'\\');
@@ -215,7 +216,7 @@ void showInput(int choice){
 	        printf("\n\t||      ");
 	        break;
         case 1:
-            system("cls");
+            system("clear");
 	        printf("\n\t||===== ");
 	        printf("\n\t||    | ");
 	        printf("\n\t||   %cO/",'\\');
@@ -224,7 +225,7 @@ void showInput(int choice){
 	        printf("\n\t||      ");
 	        break;
         case 2:
-            system("cls");
+            system("clear");
 	        printf("\n\t||===== ");
 	        printf("\n\t||    | ");
 	        printf("\n\t||   %cO/",'\\');
@@ -233,7 +234,7 @@ void showInput(int choice){
 	        printf("\n\t||      ");
 	        break;
         case 3:
-            system("cls");
+            system("clear");
 	        printf("\n\t||===== ");
 	        printf("\n\t||    | ");
 	        printf("\n\t||   %cO/",'\\');
@@ -242,7 +243,7 @@ void showInput(int choice){
 	        printf("\n\t||      ");
 	        break;
         case 4:
-            system("cls");
+            system("clear");
 	        printf("\n\t||===== ");
 	        printf("\n\t||    | ");
 	        printf("\n\t||   %cO ",'\\');
@@ -251,7 +252,7 @@ void showInput(int choice){
 	        printf("\n\t||      ");
 	        break;
         case 5:
-            system("cls");
+            system("clear");
 	        printf("\n\t||===== ");
 	        printf("\n\t||    | ");
 	        printf("\n\t||    O ");
