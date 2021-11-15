@@ -31,6 +31,7 @@ func main() {
 			r.HTMLDoc.Find("tr.base.ng-scope").Each(func(_ int, s *goquery.Selection) {
 				g.Exports <- map[string]interface{}{
 					"Country":  s.Find("td.Country\\/Territory").Text(),
+					"Name":     s.Find("td.name").Text(),
 					"Networth": s.Find("td.Net.Worth").Text(),
 					"Age":      s.Find("td.age").Text(),
 					"Source":   s.Find("td.source").Text(),
@@ -74,6 +75,7 @@ func main() {
 	}
 	for _, usance := range jsonData {
 		var row []string
+		row = append(row, usance.Name)
 		row = append(row, usance.Networth)
 		row = append(row, usance.Age)
 		row = append(row, usance.Country)

@@ -16,7 +16,7 @@ Hi my name is Akshaj . Im from Palakkad, Kerala. Im using my github.io page for 
 [Task-10](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-10)|cs50|unattempted
 [Task-11](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-11)|Poster|**Completed**
 [Task-12](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-12)|Blockchain|**Completed**
-[Task-13](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-13)|Circuit|unattempted
+[Task-13](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-13)|Circuit|**Completed**
 [Task-14](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-14)|Bandit|**Completed**
 [Task-15](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-15)|Project Euler|**Completed**
 

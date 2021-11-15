@@ -1,11 +1,11 @@
-Net-Worth,Age,Country,Source
-$260.2 B,50,United States,"Tesla, SpaceX"
-$203.7 B,57,United States,Amazon
-$198.9 B,72,France,LVMH
-$138.7 B,66,United States,Microsoft
-$126.8 B,48,United States,Google
-$125.3 B,77,United States,software
-$125.1 B,37,United States,Facebook
-$122.1 B,48,United States,Google
-$105.5 B,65,United States,Microsoft
-$103.9 B,91,United States,Berkshire Hathaway
+Name,Net-Worth,Age,Country,Source
+Elon Musk,$261.4 B,50,United States,"Tesla, SpaceX"
+Jeff Bezos,$203.9 B,57,United States,Amazon
+Bernard Arnault & family,$199.0 B,72,France,LVMH
+Bill Gates,$138.6 B,66,United States,Microsoft
+Larry Page,$126.8 B,48,United States,Google
+Larry Ellison,$126.1 B,77,United States,software
+Mark Zuckerberg,$124.9 B,37,United States,Facebook
+Sergey Brin,$122.2 B,48,United States,Google
+Steve Ballmer,$105.5 B,65,United States,Microsoft
+Warren Buffett,$103.7 B,91,United States,Berkshire Hathaway
