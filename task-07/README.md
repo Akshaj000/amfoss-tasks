@@ -1,4 +1,4 @@
-[PLEASE CLICK ME](http://akshaj000.github.io/2021/09/29/webscrapping/)
+[PLEASE CLICK ME](http://akshaj000.github.io/2021/09/29/webscrapping/)to know how stupid im.
 
 ATTEMPT-1
 
@@ -21,4 +21,8 @@ Please follow this method to use my scraper:
 
 Code to run go file : go run . or go run filename.go
 
+ATTEMPT-2.5 (THE FINAL)
+
+I actually managed to scrap directly using geyzior...i should have used ```'\\/'``` instead of ```/``` or ```//```.
+The file pasted on this same directory works fine without any complication. This was actually an easy task which i made it harder.
 
