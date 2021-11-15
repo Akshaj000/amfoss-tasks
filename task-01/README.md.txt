@@ -1,1 +1,5 @@
-![Screenshot 2021-10-12 212736](https://user-images.githubusercontent.com/83636572/136991846-dca2832e-fef1-4575-b2b5-aba66ee1913a.png)
+Ok wait whats this task....i just blindly followed the [this](https://github.com/amfoss/star-me) instruction.
+
+oh..yeah i was just starring FOSS@Amrita Projects but where is it...how do i access it ? It was fun watching it run tho.
+
+Oh i see now i see those...i has all these resources and i never knew , my bad.

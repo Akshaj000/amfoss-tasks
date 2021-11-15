@@ -1,4 +1,4 @@
-# amfoss-tasks-
+# AMFOSS TASKS LIST
 Hi my name is Akshaj . Im from Palakkad, Kerala. Im using my github.io page for task submission.
 [Visit this website for more information on the tasks i have attempted.](https://Akshaj000.github.io)
 **Tasks List**|**Description**|**Status**|
@@ -19,4 +19,6 @@ Hi my name is Akshaj . Im from Palakkad, Kerala. Im using my github.io page for 
 [Task-13](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-13)|Circuit|unattempted
 [Task-14](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-14)|Bandit|**Completed**
 [Task-15](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-15)|Project Euler|**Completed**
+
+For [my Views](https://Akshaj000.github.io) on this journey please refer the gitpage.
 

@@ -36,9 +36,17 @@ for (let i = 0; i < 5 ; i++  ){
     xValues.push(data[i]["pizza"]);
     yValues.push(data[i]["sold"]);
 }
-var barColors = ["red", "green","blue","orange","brown"];
+
+var barColors = [
+    "#b91d47",
+    "#00aba9",
+    "#2b5797",
+    "#e8c3b9",
+    "#1e7145"
+  ];
+
 new Chart("myChart", {
-    type: "bar",
+    type: "pie",
     data: {
       labels: xValues,
       datasets: [{
@@ -46,5 +54,10 @@ new Chart("myChart", {
         data: yValues
       }]
     },
+    options: {
+      title: {
+        display: true,
+        text: "Pizza sold on a single day",
+      }
+    }
   });
-
