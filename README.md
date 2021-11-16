@@ -20,4 +20,4 @@ Hi my name is Akshaj . Im from Palakkad, Kerala. Im using my github.io page for 
 [Task-14](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-14)|Bandit|**Completed**
 [Task-15](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-15)|Project Euler|**Completed**
 
-For my Views on this journey please refer my gitpage.
+For my Views on this journey please visit my gitpage.
