@@ -13,7 +13,7 @@ Hi my name is Akshaj . Im from Palakkad, Kerala. Im using my github.io page for 
 [Task-07](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-07)|Webscrapping using goland|**Completed**
 [Task-08](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-08)|Introduction to html,js|**Completed**
 [Task-09](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-09)|Github.io|**Completed**
-[Task-10](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-10)|cs50|unattempted
+Task-10|cs50|unattempted
 [Task-11](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-11)|Poster|**Completed**
 [Task-12](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-12)|Blockchain|**Completed**
 [Task-13](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-13)|Circuit|**Completed**
