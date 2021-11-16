@@ -9,7 +9,7 @@ ATTEMPT-2
 I tried goquery also, and i failed in scraping data from forbes. Ig i kinda gave up. Ig i tried my level best. I could have studied more about goquery, i will try to get back to this task at the end.
 I tried goquery on other websites. It worked fine. I will attach my code, but its not the proper one to scrap the data to a csv, i just wanted to see whether its working with forbes elements.I will attach both the file try1 and try2.
 
-#### please Kindly go through test directory in which i tried to scrap from bloomberg, which is a similar website like forbes using colly.
+please Kindly go through test directory in which i tried to scrap from bloomberg, which is a similar website like forbes using colly.
 
 ATTEMPT-3
 
@@ -21,7 +21,7 @@ Please follow this method to use my scraper:
 
 Code to run go file : go run . or go run filename.go
 
-ATTEMPT-2.5 (THE FINAL)
+## ATTEMPT-2.5 (THE FINAL)
 
 I actually managed to scrap directly using geyzior...i should have used ```'\\/'``` instead of ```/``` or ```//```.
 The file pasted on this same directory works fine without any complication. This was actually an easy task which i made it harder.
