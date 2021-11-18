@@ -20,4 +20,3 @@ Task-10|cs50|unattempted
 [Task-14](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-14)|Bandit|**Completed**
 [Task-15](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-15)|Project Euler|**Completed**
 
-For my Views on this journey please visit my gitpage.
