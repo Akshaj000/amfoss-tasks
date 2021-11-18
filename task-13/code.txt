@@ -42,17 +42,17 @@ void loop()
   //336-200=136
   if(cm<=136)
   {
-    digitalWrite(green,HIGH);
+    digitalWrite(red,HIGH);
     delay(500);
-    digitalWrite(green,LOW);
+    digitalWrite(red,LOW);
     delay(500);
   } 
    
        else
   {
-    digitalWrite(red,HIGH);
+    digitalWrite(green,HIGH);
     delay(500);
-    digitalWrite(red,LOW);
+    digitalWrite(green,LOW);
     delay(500);
      } 
       
