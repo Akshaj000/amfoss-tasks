@@ -1,0 +1,81 @@
+Enter no of blocks:
+4
+Enter message in 0th block:
+Message-1
+Enter message in 1th block:
+Message-2
+Enter message in 2th block:
+Message-3
+Enter message in 3th block:
+Message-4
+block-0
+Hash:
+302694679
+Previous Hash:
+0
+Message:
+Message-1
+ 
+block-1
+Hash:
+605389389
+Previous Hash:
+302694679
+Message:
+Message-2
+ 
+block-2
+Hash:
+908084130
+Previous Hash:
+605389389
+Message:
+Message-3
+ 
+block-3
+Hash:
+1210778902
+Previous Hash:
+908084130
+Message:
+Message-4
+ 
+Enter no of block to change the message or -1 to exit: 
+2
+Enter new message:
+Message-X
+block-0
+Hash:
+302694679
+Previous Hash:
+0
+Message:
+Message-1
+ 
+block-1
+Hash:
+605389389
+Previous Hash:
+302694679
+Message:
+Message-2
+ 
+block-2
+Hash:
+908085277
+Previous Hash:
+605389389
+Message:
+Message-X
+ 
+block-3
+Hash:
+1210780049
+Previous Hash:
+908085277
+Message:
+Message-4
+ 
+Enter no of block to change the message or -1 to exit: 
+-1
+
