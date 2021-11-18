@@ -1,1 +1,1 @@
-Okay sorry, i had refered multiples of 3 and 5 from the solution part since i faced time complexity issue. It was so tempting. I did almost all others by myself tho.
+It was so tempting to look at the solution since it was available in the page itself. I did few by myself using some of the algorithm given in that page.
