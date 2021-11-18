@@ -1,5 +1,8 @@
 Ive typed the codes i have used [here](https://akshaj000.github.io/2021/09/25/hello-world/) also.
 
+## Image:
+![Image](https://i.ibb.co/gFx89JY/Screenshot-from-2021-11-18-21-00-03.png)
+
 ## Commands used in ubuntu terminal.
 also vi file.txt can be used to edit files. Sorry for using wsl.
 

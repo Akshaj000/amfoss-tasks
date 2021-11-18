@@ -8,6 +8,6 @@ Just restarted with usb plugged in . pressed f12 ,selected usb. Installed ubuntu
 
 Also i use wsl on my windows since its a bit time taking to switch between os. 
 
-I stopped using windows eventually since ubuntu felt easier for my tasks. Ive done few tasks maybe one or two osn windows.
+I stopped using windows eventually since ubuntu felt easier for my tasks. Ive done few tasks maybe two or even more on windows.
 
-okay i have typed more [here](http://akshaj000.github.io/2021/09/25/hello-world/).
+...okay i have typed more [here](http://akshaj000.github.io/2021/09/25/hello-world/).
