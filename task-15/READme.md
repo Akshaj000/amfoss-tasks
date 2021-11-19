@@ -1,1 +1,1 @@
-It was so tempting to look at the solution since it was available in the page itself. I did few by myself using some of the algorithm given in that page.
+It was so tempting to look at the Editorial part. I cant say that ive done all by myself. I did refer to the available algorithm given in the page for 1 and 4.
