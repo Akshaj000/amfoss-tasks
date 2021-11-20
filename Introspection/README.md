@@ -16,7 +16,7 @@ I want to learn and get comfortable in dsa in my first semster. I know python -d
 ## How would you contribute back to the club?
 
 
-I would love to help others who is new to the club and leave a footprint even after i gratuate from Amritha.
+I would love to help others who is new to the club and leave a footprint even after i gratuate from Amrita.
 
 ## Do you have any feedback for the selection process?
 
