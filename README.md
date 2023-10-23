@@ -1,6 +1,6 @@
 # AMFOSS TASKS LIST
 Hi my name is Akshaj . Im from Palakkad, Kerala. Im using my github.io page for task submission.
-[Visit this website for more information on the tasks i have attempted.](https://Akshaj000.github.io/2021/11/19/Amfoss/)
+[Visit this website for more information on the tasks i have attempted.](https://akshaj000.github.io/AmfossPreveshan/2021/11/19/Amfoss/)
 **Tasks List**|**Description**|**Status**|
 --------------|---------------|---------------
 [Task-00](https://github.com/Akshaj000/amfoss-tasks/tree/master/task-00)|Installing Ubuntu|**Completed**
